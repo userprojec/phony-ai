@@ -1,0 +1,5 @@
+name,phone,order_id,order_status
+John Doe,+15551234567,ORD-001,Shipped
+Jane Smith,+15559876543,ORD-002,Processing
+Bob Wilson,+15555551234,ORD-003,Delivered
+Alice Brown,+15551112222,ORD-004,On Hold
